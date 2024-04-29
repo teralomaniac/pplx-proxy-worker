@@ -1,0 +1,8 @@
+name = "pplx-proxy-worker"
+main = "src/index.js"
+compatibility_date = "2024-04-29"
+workers_dev = true
+compatibility_flags = [ "nodejs_compat" ]
+
+[placement]
+mode = "smart"
